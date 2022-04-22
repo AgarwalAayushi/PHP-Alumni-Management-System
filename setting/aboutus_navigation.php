@@ -49,6 +49,6 @@
 
 <button id="about_totop" onclick="topFunction()"><img src="image/top.jpg" width="50px" height="50px"/></button>
 <script src= src="javascript/about_totop.js"></script>
-
+<hr>
 </body>
 </html>
